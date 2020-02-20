@@ -24,6 +24,7 @@ $ npm install
 ```
 CONNECTION_STRING=
 PORT=3000
+JWTSECRET=
 ```
 
 2. Run node server and watch for any changes.
